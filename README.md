@@ -90,7 +90,7 @@ It will fix your code automatically. It will add spaces, fix lines,etc.
 11. **Launch `index.html` in Live Server and check that the script is running. Click right button and select inspect to show the developer tools and take a look on the console.**
     
 12. **Change some message in the JS code and sava changes. You can check that Live Server refreshes the web page.**
-<img width="295" height="562" alt="image" src="https://github.com/user-attachments/assets/f1cdd21e-c723-41b8-b90d-ef0c65ee8b35" />
+![Text to display]([link/to/the/image](https://github.com/user-attachments/assets/f1cdd21e-c723-41b8-b90d-ef0c65ee8b35))
 
 
 ### Create a simple form with Bootstrap 4. 
